@@ -1,0 +1,13 @@
+{
+    "name": "programinute/sample-packagist",
+    "description": "Sample Composer Package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Programinute"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
