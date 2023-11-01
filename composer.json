@@ -8,6 +8,6 @@
             "name": "Programinute"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
